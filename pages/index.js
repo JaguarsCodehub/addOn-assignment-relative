@@ -8,7 +8,7 @@ const Home = () => (
     <div className="relative">
       <About />
       <div className="gradient-03 z-0" />
-      <Explore />
+      {/* <Explore /> */}
     </div>
     <div className="relative">
       <GetStarted />

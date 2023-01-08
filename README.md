@@ -1,7 +1,14 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+## This is a single page web application which is made using Javascript and Tailwind CSS. It's made using Next Js 13 with eslint configuration.
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+-- This application focuses more on the styling and animations which are used using framer motions. I have created this to showcase my development and frontend skills, also keeping into consideration the folder structure of the project as folder structure is also very important when working with big enterprise applications.
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+Clone this project into your machine
+```git clone (gitURl)```
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+```cd``` into the project and run ```npm install```
+
+Now as you have installed all the dependencies, you can run the application using : 
+
+```npm run dev```
+http://localhost:3000/
+
